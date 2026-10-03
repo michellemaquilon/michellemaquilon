@@ -1,27 +1,39 @@
-Hi, I'm Michelle Maquilon! 👋
+<div align="center">
 
-🎓 Information Technology Student at the University of North Florida
-🌐 Aspiring Network Engineer | IT Support | Networking & Infrastructure
+# Hi, I'm Michelle Maquilon 👋
 
-I'm an IT student passionate about networking, troubleshooting, and learning how technology works behind the scenes. I'm currently building my technical skills through hands-on labs, academic projects, and certifications while working toward a career in IT support and network engineering.
+### 💻 IT Student | 🌐 Aspiring Network Engineer
 
-💻 Technical Skills
-Networking: TCP/IP, VLANs, subnetting, routing, switching, DNS, DHCP
-Systems & Tools: Windows Server, Active Directory, Linux, Cisco Packet Tracer, GNS3, pfSense
-Programming: Python, Java, HTML, CSS
-Other: PowerShell, Wireshark, Git, troubleshooting
-🚀 Projects & Hands-on Experience
-🌐 Network Traffic Analyzer: Developed a Python-based packet analyzer using Scapy and Matplotlib to monitor and visualize network traffic.
-🔐 Active Directory & Windows Server: Configured a Windows Server domain environment, managed users and organizational units, and implemented Group Policies.
-🖧 Network Infrastructure Labs: Built and troubleshot network environments involving VLANs, inter-VLAN routing, DHCP, DNS, and firewall configurations.
-🐧 Linux Administration: Worked with Ubuntu server environments, configuring network services such as DNS, DHCP, and NFS.
-📜 Certifications
-Cisco Introduction to Cybersecurity
-CompTIA Network+ — In Progress
-🌱 Currently Learning
-Network troubleshooting and infrastructure
-Cisco switching and routing
-Network security fundamentals
-IT support and enterprise systems
+Building my skills in networking, IT infrastructure, and troubleshooting.
+
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-blue?style=flat&logo=linkedin)](www.linkedin.com/in/
+michelle-maquilon)
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white)
+![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+![Cisco](https://img.shields.io/badge/Cisco-1BA0D7?style=for-the-badge&logo=cisco&logoColor=white)
+![Wireshark](https://img.shields.io/badge/Wireshark-1679A7?style=for-the-badge&logo=wireshark&logoColor=white)
+![Windows Server](https://img.shields.io/badge/Windows_Server-0078D4?style=for-the-badge&logo=windows&logoColor=white)
+
+### 🌱 Currently Learning
+- Network Engineering & Troubleshooting
+- Routing, Switching & Network Security
+- Enterprise IT Infrastructure
+
+### 📌 Featured Projects
+- 🌐 Network Traffic Analyzer
+- 🔐 Active Directory & Windows Server Labs
+- 🖧 Network Infrastructure & VLAN Labs
+
+---
+
+
 
 
